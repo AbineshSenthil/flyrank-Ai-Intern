@@ -10,6 +10,15 @@ at once. The rhythm is simple: do the work, commit it, submit on the card. Done.
 Everything here runs on a small **anonymized** slice of real FlyRank search data. No credentials,
 no private client data, no setup headaches.
 
+## Abinesh S - Internship Projects
+
+- [Backend Engineering Assignments](assignments/) - BE-01 through BE-09, covering APIs,
+  persistence, authentication, containers, scraping, background jobs, AI integration, PDF
+  reporting, and durable decision workflows.
+- [CampaignHub Studio Capstone](capstone-social-studio/) - a multi-platform social campaign
+  engine with generated captions and images, scheduling, idempotent publishing, delivery
+  webhooks, and a standalone MCP interface.
+
 > **New here?** Two reads: **[SETUP.md](SETUP.md)** (GitHub, Colab, and data access — ten
 > minutes, with every silent pitfall flagged), then **[GUIDE.md](GUIDE.md)** (every file
 > explained, what to edit vs. leave alone, and where your own work goes — five minutes).

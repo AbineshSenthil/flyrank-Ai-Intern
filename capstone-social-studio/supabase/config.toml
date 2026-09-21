@@ -1,0 +1,5 @@
+project_id = "campaignhub-studio"
+
+[auth.email]
+enable_signup = true
+enable_confirmations = false

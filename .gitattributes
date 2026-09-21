@@ -1,0 +1,14 @@
+# Normalise line endings so Windows checkouts do not produce empty diffs.
+* text=auto eol=lf
+
+# Binary assets - never alter their byte streams.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.mp4 binary
+*.db binary
+*.sqlite binary
+*.sqlite3 binary
